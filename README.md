@@ -2,7 +2,7 @@
 
 *31/01/2018*
 
-I'm [Ionut Balan](topicdev.com), a web developer since 2012. I'm going to write about the setup, programs, and plugins I use on a daily basis with some brief descriptions and alternate options. 
+I'm [Ionut Balan](https://www.topicdev.com), a web developer since 2012. I'm going to write about the setup, programs, and plugins I use on a daily basis with some brief descriptions and alternate options. 
 
 
 ## Contents
