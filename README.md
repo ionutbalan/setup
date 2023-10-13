@@ -124,4 +124,3 @@ A few other programs I use on a regular basis.
 - [Slack](https://slack.com/) - for communication between teams.
 - [Composer](https://getcomposer.org/) - Dependency Manager for PHP
 
-Structure of page based on [taniarascia/setup](https://github.com/taniarascia/setup)
