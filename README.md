@@ -2,7 +2,7 @@
 
 *31/01/2018*
 
-I'm [Ionut Balan](https://www.topicdev.com), a web developer since 2012. I'm going to write about the setup, programs, and plugins I use on a daily basis with some brief descriptions and alternate options. 
+I'm [Ionut Balan](https://www.linkedin.com/in/ionut-balan-22761797/), a web developer since 2012. I'm going to write about the setup, programs, and plugins I use on a daily basis with some brief descriptions and alternate options. 
 
 
 ## Contents
@@ -23,7 +23,7 @@ I'm [Ionut Balan](https://www.topicdev.com), a web developer since 2012. I'm goi
 
 > The software a computer runs on.
 
-### **I use:** [Windows 10](https://www.microsoft.com/en-us/windows)
+### **I use:** [Windows 11](https://www.microsoft.com/en-us/windows)
 **My alternative:** [Linux](https://en.wikipedia.org/wiki/Linux)
 
 
@@ -37,7 +37,6 @@ I'm [Ionut Balan](https://www.topicdev.com), a web developer since 2012. I'm goi
 
 ### Extensions
 
-- [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?hl=en-US) - block ads.
 - [Xdebug helper](https://chrome.google.com/webstore/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc?hl=en-US) - for debug.
 - [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=en-US) - various web developer tools.
 - [Modify Headers for Google Chrome™](https://chrome.google.com/webstore/detail/modify-headers-for-google/innpjfdalfhpcoinfnehdnbkglpmogdi?hl=en-US) - Add, Modify and Filter of HTTP headers.
@@ -67,7 +66,7 @@ XAMPP is a completely free, easy to install Apache distribution containing Maria
 - **Operating System:** Windows / Linux
 - **Web Server:** [Apache](https://www.apache.org/)
 - **Database:** [MySQL](https://www.mysql.com/)
-- **Language:** [PHP 7](http://php.net/)
+- **Language:** [PHP 8](http://php.net/)
 
 ## Text Editor / IDE
 
